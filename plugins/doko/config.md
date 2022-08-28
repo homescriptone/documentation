@@ -20,7 +20,27 @@ In the search field type “DokoBuilder” then click “Search Plugins.” Once
 Manual installation method requires downloading the DokoBuilder plugin and uploading it to your web server via your favorite FTP application. The WordPress codex contains [instructions on how to do this here](https://wordpress.org/support/article/managing-plugins/#manual-plugin-installation).
 
 
-# How to create a bundle ?
+# How to create a product bundle ?
 
 After installing  DokoBuilder plugin, you need to configure it.  
-Login to your WP dashboard and access the <b>bundles menu</b>.
+Login to your WP dashboard and access the <b>bundles menu</b>.  
+
+![click-here-to-see](assets/img/menu.png)  
+
+Click <b>New Bundle</b>, you'll be redirected to the bundle creation page.  
+Fill different steps according to your business and save the bundle.
+
+First step screen :  
+![click-here-to-see](assets/img/first-step.png)  
+
+Second step screen :  
+![click-here-to-see](assets/img/second-step.png)   
+
+Third step screen :  
+![click-here-to-see](assets/img/third.png)  
+
+Once saved, copy and use the shortcodes generated on a new page you created for run your business.
+Then, take a break and see your sales increase.
+
+# Where to find support ?
+Visit our official plugin page for support [here](https://wordpress.org/plugins/doko-box-builder).
